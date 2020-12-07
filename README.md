@@ -68,8 +68,8 @@
   - [Best pratices: Data Sharing](https://github.com/jtleek/datasharing)
 
 ## R:
-  - (TidyData)[https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html]
-  - (TidyVerse)[https://www.tidyverse.org/]
+  - [TidyData](https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html)
+  - [TidyVerse](https://www.tidyverse.org/)
 
 ## Julia:
   -[Julia Repo](https://github.com/JuliaLang/julia)
