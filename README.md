@@ -46,29 +46,42 @@
 
 ## Seleção de variáveis / PCA:
   - [Redução de Dimensionalidade e PCA](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%206/aula_6_reducao_de_dimensionalidade_e_selecao_de_variaveis.ipynb)
-  - [Feature engineering](https://www.kaggle.com/learn/feature-engineering)
+  - [Feature engineering (EN)](https://www.kaggle.com/learn/feature-engineering)
+  - [Feature engineering (PT)]((https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%207/aula_7_feature_engineering.ipynb)
 
-## 
+## Regressão Linear:
+  - [Regressão Linear explicada](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%208/aula_8_regressao_linear.ipynb)
+  
+## Modelos de classificação:
+  -[Teoria: Modelos de classificação](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%209/aula_9_classificacao.ipynb)
+  
 
 ## Natural Language Processing:
   - [Intro NLP](https://www.kaggle.com/learn/natural-language-processing)
   - [State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0](https://github.com/huggingface/transformers)
 
 
-
+## Bias-Variance-Tradeoff:
+  - [Gentle Introduction to the Bias-Variance Trade-Off in Machine Learning](https://machinelearningmastery.com/gentle-introduction-to-the-bias-variance-trade-off-in-machine-learning/)
+  
+## Data Sharing:
+  - [Best pratices: Data Sharing](https://github.com/jtleek/datasharing)
 
 ## R:
   - (TidyData)[https://cran.r-project.org/web/packages/tidyr/vignettes/tidy-data.html]
   - (TidyVerse)[https://www.tidyverse.org/]
 
 ## Julia:
-  -[]()
-  -[]()
+  -[Julia Repo](https://github.com/JuliaLang/julia)
+  -[Julia Box Tutorials](https://github.com/JuliaAcademy/JuliaTutorials)
+
+## Machine Learning production (Flow):
+  - [Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ## Must read :
  - [Computer Science Resources by Akira](https://github.com/the-akira/Computer-Science-Resources)
- - []()
- - []()
+ - [Machine Learning Mastery](https://machinelearningmastery.com/blog/)
+ - [Medium (Tutorials)](https://medium.com/)
 
 ## Python robotics:
   - [Python sample codes for robotics algorithms](https://github.com/AtsushiSakai/PythonRobotics)
