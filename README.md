@@ -47,7 +47,7 @@
 ## Seleção de variáveis / PCA:
   - [Redução de Dimensionalidade e PCA](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%206/aula_6_reducao_de_dimensionalidade_e_selecao_de_variaveis.ipynb)
   - [Feature engineering (EN)](https://www.kaggle.com/learn/feature-engineering)
-  - [Feature engineering (PT)]((https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%207/aula_7_feature_engineering.ipynb)
+  - [Feature engineering (PT)](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%207/aula_7_feature_engineering.ipynb)
 
 ## Regressão Linear:
   - [Regressão Linear explicada](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%208/aula_8_regressao_linear.ipynb)
