@@ -53,7 +53,7 @@
   - [Regressão Linear explicada](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%208/aula_8_regressao_linear.ipynb)
   
 ## Modelos de classificação:
-  -[Teoria: Modelos de classificação](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%209/aula_9_classificacao.ipynb)
+  - [Teoria: Modelos de classificação](https://nbviewer.jupyter.org/github/Haller-x/Data-Science-Online/blob/master/Semana%209/aula_9_classificacao.ipynb)
   
 
 ## Natural Language Processing:
@@ -72,8 +72,8 @@
   - [TidyVerse](https://www.tidyverse.org/)
 
 ## Julia:
-  -[Julia Repo](https://github.com/JuliaLang/julia)
-  -[Julia Box Tutorials](https://github.com/JuliaAcademy/JuliaTutorials)
+  - [Julia Repo](https://github.com/JuliaLang/julia)
+  - [Julia Box Tutorials](https://github.com/JuliaAcademy/JuliaTutorials)
 
 ## Machine Learning production (Flow):
   - [Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
